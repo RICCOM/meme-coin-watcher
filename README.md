@@ -1,4 +1,4 @@
-##🐸 Solana Meme Coin Watcher
+## 🐸 Solana Meme Coin Watcher
 
 A simple Python bot that monitors the Solana blockchain for newly launched meme coins and sends real-time alerts to a Telegram chat.
 
