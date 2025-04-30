@@ -2,9 +2,9 @@ import requests
 import time
 
 # === CONFIG ===
-HELIUS_API_KEY = '3fdbf6e7-feab-4a62-a86f-f3d63722423f'  
-TELEGRAM_BOT_TOKEN = '7919155099:AAFPft5mOOGpaFxpi4H1F6iXvIrPXU2TSbE'  
-TELEGRAM_CHAT_ID = 6877444285  
+HELIUS_API_KEY = ''  
+TELEGRAM_BOT_TOKEN = ''  
+TELEGRAM_CHAT_ID = ''  
 CHECK_INTERVAL = 60  # How often to check for new coins (in seconds)
 
 # Tracking seen token addresses to avoid duplicate alerts
